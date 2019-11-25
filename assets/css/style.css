@@ -8,7 +8,8 @@
 
 h2 {
     font-family: 'Righteous', cursive;
-    color: crimson;
+    color: red;
+    padding-top: 25px;
 }
 
 .rFont {
